@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Invoker Launcher</title>
+</head>
+<body>
+    <h1>Invoker Launcher</h1>
+    <p>Launch applications using RUNASINVOKER.</p>
+    <a href="https://github.com/tree0252/InvokerLauncher/releases/latest">
+        Download Latest Version
+    </a>
+</body>
+</html>
